@@ -1,0 +1,7 @@
+C:\Users\Skapar\Documents\GitHub\SayıTahminOyunu\SayıTahminOyunu\bin\Debug\SayıTahminOyunu.exe.config
+C:\Users\Skapar\Documents\GitHub\SayıTahminOyunu\SayıTahminOyunu\bin\Debug\SayıTahminOyunu.exe
+C:\Users\Skapar\Documents\GitHub\SayıTahminOyunu\SayıTahminOyunu\bin\Debug\SayıTahminOyunu.pdb
+C:\Users\Skapar\Documents\GitHub\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\SayıTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\Skapar\Documents\GitHub\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\SayıTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Skapar\Documents\GitHub\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\SayıTahminOyunu.exe
+C:\Users\Skapar\Documents\GitHub\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\SayıTahminOyunu.pdb
